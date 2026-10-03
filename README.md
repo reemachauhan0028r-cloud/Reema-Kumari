@@ -16,8 +16,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/0001-two-sum) |
 | [0771-jewels-and-stones](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/0771-jewels-and-stones) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/0771-jewels-and-stones) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
