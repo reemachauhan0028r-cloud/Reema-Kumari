@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/0204-count-primes) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/0001-two-sum) |
+| [0204-count-primes](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/0204-count-primes) |
 | [1748-sum-of-unique-elements](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
 |  |
@@ -28,4 +30,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/1748-sum-of-unique-elements) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
