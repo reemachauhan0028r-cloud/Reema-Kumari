@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/0204-count-primes) |
 | [1748-sum-of-unique-elements](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/1748-sum-of-unique-elements) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Primality Test
 |  |
 | ------- |
@@ -50,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/0204-count-primes) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
