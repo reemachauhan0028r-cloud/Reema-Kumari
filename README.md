@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/0204-count-primes) |
 | [1492-the-kth-factor-of-n](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/1492-the-kth-factor-of-n) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/reemachauhan0028r-cloud/Reema-Kumari/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
